@@ -5,10 +5,12 @@ import java.awt.Graphics;
 
 public class Circle implements GeometricalForm {
 
+	private int diameter;
+	
 	@Override
 	public int getArea() {
 		// TODO Auto-generated method stub
-		return 0;
+		return (int) (Math.pow(diameter/2, 2) * Math.PI);
 	}
 
 	@Override
