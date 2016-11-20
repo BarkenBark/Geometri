@@ -1,1 +1,0 @@
-Skapade skräpfil för GitHub är helt efterblivet som låter en endast skapa nya mappar i webinterfacet vid skapande av ny fil
