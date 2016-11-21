@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+package geometri;
+=======
+>>>>>>> master
 import java.awt.Color;
 import java.awt.BorderLayout;
 import java.awt.Container;
